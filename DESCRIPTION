@@ -1,0 +1,10 @@
+Package: suman
+Type: Package
+Title: Calcula la suman de los *n* primeros números naturales. 
+Version: 0.1.0
+Author: Joel Enriquez
+Maintainer: Joel Enriquez <joelcamiloenriquez@gmail.com>
+Description: Este paquete calcula la suman de los *n* primeros números naturales. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
